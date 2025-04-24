@@ -2,30 +2,26 @@
 :root{
     --main-font: 'Inter-Variable';
     --decor-font: 'PressStart2P';
-
     --title-font-weight: 700;
     --text-font-weight: 400;
-
     --page-section-size: 49%;
 
     --white: #fff;
     --black: #000;
-    /* card__image-label */
     --decor-color: #000;
-    /* card__image-label */
     --bg-color: #fff;
-
     --heart-black: #000;
     --heart-red: #ff0000;
 
     --logo-font-size: 65px;
+    --logo-font-size-mobile: 49px;
     --title-font-size: 23px;
     --font-s: 14px;
     --font-m: 18px;
-    --btn-line-height: 38px;
 
+    --btn-line-height: 38px;
     --title-line--height: 23px;
     --text-line-height: 21px;
-
+    --dialog-line-height: 16px;
     --bg-image: url(/svg/image.svg);
 }
