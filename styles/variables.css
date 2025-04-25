@@ -4,7 +4,7 @@
     --decor-font: 'PressStart2P';
     --title-font-weight: 700;
     --text-font-weight: 400;
-    --page-section-size: 49%;
+    /* --page-section-size: 49%; */
 
     --white: #fff;
     --black: #000;
@@ -13,15 +13,11 @@
     --heart-black: #000;
     --heart-red: #ff0000;
 
-    --logo-font-size: 65px;
-    --logo-font-size-mobile: 49px;
-    --title-font-size: 23px;
     --font-s: 14px;
     --font-m: 18px;
 
     --btn-line-height: 38px;
-    --title-line--height: 23px;
     --text-line-height: 21px;
-    --dialog-line-height: 16px;
+    --dialog-line-height: 20px;
     --bg-image: url(/svg/image.svg);
 }
